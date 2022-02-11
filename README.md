@@ -11,7 +11,8 @@ Checkout one of my [projects!](https://maple-exchange.netlify.app/)
 
 
 ## Tools I am learning
-<img src="https://img.shields.io/badge/-Elixir-blueviolet?style=flat&logo=elixir&logoColor=white"> <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Vim-4DB33D?style=flat&logo=vim&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Haskell-blueviolet?style=flat&logo=Haskell&logoColor=white"> <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Vim-4DB33D?style=flat&logo=vim&logoColor=FFFFFF">
+
 
 <!---
 Aearsears/Aearsears is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
