@@ -11,7 +11,10 @@ Checkout one of my [projects](https://maple-exchange.netlify.app/) or [my portfo
 
 
 ## Tools I am learning
-<img src="https://img.shields.io/badge/-Haskell-blueviolet?style=flat&logo=Haskell&logoColor=white"> <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Vim-4DB33D?style=flat&logo=vim&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Rust-black?style=flat&logo=rust&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Rust-black?style=flat&logo=rust&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Vim-4DB33D?style=flat&logo=vim&logoColor=FFFFFF"> 
+
+## Tools I want to learn
+<img src="https://img.shields.io/badge/-Haskell-blueviolet?style=flat&logo=Haskell&logoColor=white"> <img src="https://img.shields.io/badge/-Clojure-4DB33D?style=flat&logo=clojure&logoColor=FFFFFF">
 
 
 <!---
