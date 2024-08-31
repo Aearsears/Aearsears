@@ -1,4 +1,4 @@
-## Hi, I’m Aearsears, an aspiring software engineer building scalable systems one instance at a time.
+## Hi, I’m Aearsears, a software engineer building scalable systems one instance at a time.
 
 Checkout one of my [projects](https://maple-exchange.netlify.app/) or [my portfolio!](https://aearsears.github.io/)
 
